@@ -1,8 +1,10 @@
 # Smart_Audit_System
+Project Title: Smart Audit System
+
 Used languages: PHP, Java, HTML, CSS, JS, SQL, DataBase
 Technology: Visual Studio, Xxamp, 
-Project Title: Smart Audit System
-Pass:
+
+Username and password available in database.
 
 Description:
 
