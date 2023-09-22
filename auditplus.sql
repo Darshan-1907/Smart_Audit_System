@@ -404,22 +404,8 @@ CREATE TABLE `register` (
 --
 
 INSERT INTO `register` (`id`, `firstname`, `lastname`, `username`, `password`, `cpassword`, `phoneno`, `Card no`, `time`) VALUES
-(10, 'hetal', 'hetal', 'het@gmail.com', 'Hetal@123', '', 2147483647, 0, '2021-12-02 21:17:34'),
-(11, 'vidya', 'vidya', 'vid@gm.com', 'Vidya@123', '', 2147483647, 0, '2021-12-02 22:02:38'),
-(12, 'hina', 'hina', 'sss', 'Sam@1234', '', 555, 0, '2021-12-02 22:32:59'),
-(13, 'sayli', 'sayli', 'sayli', 'Sayli@123', '', 2147483647, 0, '2021-12-03 20:26:03'),
-(22, 'HETAL', 'HETAL', 'hetal@gmail.com', 'Hetal@123', '', 86753456, 0, '2021-12-04 14:54:32'),
-(24, 'Sayali', 'Sayali', 'sayalisonawane546@gm', 'Sayali@123', '', 820, 0, '2021-12-04 22:09:24'),
-(25, 'Sayali', 'Sayali', 'sayalisonawane546@gm', 'Sayo@!123', '', 2147483647, 0, '2021-12-08 19:50:16'),
-(26, 'Komal', 'Komal', 'gotmarekomal@gmail.c', 'Komal1234', '', 2147483647, 0, '2021-12-08 20:03:25'),
-(29, 'Sayali', 'Sayali', 'sayalisonawane546@gmail.com', 'Sayo@!123', '', 2147483647, 0, '2021-12-09 13:54:01'),
-(30, 'Komal', 'Komal', 'gotmarekomal7522@gmail.com', 'Komal@!123', '', 2147483647, 0, '2021-12-09 13:56:02'),
-(33, 'Pratiksha', 'Pratiksha', 'pratikshadhote2020@gmail.com', 'Pratu@!123', '', 2147483647, 0, '2021-12-09 14:03:59'),
-(34, 'Komal', 'Komal', 'gotmarekomal7529@gmail.com', 'Komal@!123', '', 2147483647, 0, '2021-12-09 14:12:25'),
-(37, 'Sayali', 'Sayali', 'sayali5460@gmail.com', 'Sayo@!123', '', 2147483647, 0, '2021-12-19 14:46:13'),
-(38, 'Jagruti', 'Jagruti', 'jagruti@gmail.com', 'Jaggu@123', '', 2147483647, 0, '2021-12-19 15:19:23'),
-(39, 'Sayali', 'Sayali', 'sayali232425@gmail.com', 'Sayo@!123', '', 2147483647, 0, '2021-12-25 00:58:02'),
-(40, 'Sayali', 'Sayali', 'sayali50@gmail.com', 'Sayo@!123', '', 2147483647, 0, '2021-12-25 15:55:55');
+(10, 'Admin', 'Admin', 'admin', 'admin@123', '', 2147483647, 0, '2021-12-02 21:17:34'),
+
 
 -- --------------------------------------------------------
 
